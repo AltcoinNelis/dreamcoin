@@ -1,0 +1,6 @@
+usr/local/bin/dreamcoin-qt usr/bin
+share/pixmaps/dreamcoin32.xpm usr/share/pixmaps
+share/pixmaps/dreamcoin16.xpm usr/share/pixmaps
+share/pixmaps/dreamcoin128.png usr/share/pixmaps
+debian/dreamcoin-qt.desktop usr/share/applications
+debian/dreamcoin-qt.protocol usr/share/kde4/services/

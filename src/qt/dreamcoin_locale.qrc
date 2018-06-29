@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/dreamcoin_bg.qm</file>
+        <file alias="de">locale/dreamcoin_de.qm</file>
+        <file alias="en">locale/dreamcoin_en.qm</file>
+        <file alias="es">locale/dreamcoin_es.qm</file>
+        <file alias="fi">locale/dreamcoin_fi.qm</file>
+        <file alias="fr">locale/dreamcoin_fr.qm</file>
+        <file alias="it">locale/dreamcoin_it.qm</file>
+        <file alias="ja">locale/dreamcoin_ja.qm</file>
+        <file alias="pl">locale/dreamcoin_pl.qm</file>
+        <file alias="pt">locale/dreamcoin_pt.qm</file>
+        <file alias="ru">locale/dreamcoin_ru.qm</file>
+        <file alias="sk">locale/dreamcoin_sk.qm</file>
+        <file alias="sv">locale/dreamcoin_sv.qm</file>
+        <file alias="vi">locale/dreamcoin_vi.qm</file>
+        <file alias="zh_CN">locale/dreamcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/dreamcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
